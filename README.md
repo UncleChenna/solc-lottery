@@ -1,0 +1,1 @@
+# solc-lottery
